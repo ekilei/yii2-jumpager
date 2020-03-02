@@ -1,0 +1,22 @@
+{
+  "name" : "ekilei/yii2-jumpager",
+  "description" : "Jumpager widget (Custom LinkPager)",
+  "type" : "yii2-extension",
+  "keywords" : ["yii2","linkpager","pagination","widget","select","input"],
+  "license" : "MIT",
+  "authors" : [
+    {
+      "name" : "Ekilei",
+      "email" : "ekilei@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ekilei\\jumpager\\": ""
+    }
+  }
+}
