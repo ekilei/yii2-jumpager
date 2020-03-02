@@ -6,7 +6,7 @@ Jumpager is an add-on above the LinkPager, designed for adaptive sites, convenie
 
 
 ```angular2html
-<?php $jp = \ekilei\jumpager\Jumpager::widget([
+<?php echo \ekilei\jumpager\Jumpager::widget([
       'pagination' => $pages,
 ]); ?>
 ```
@@ -24,7 +24,7 @@ View in mobile
 Input field instead of select 
 
 ```angular2html
-<?php $jp = \ekilei\jumpager\Jumpager::widget([
+<?php echo \ekilei\jumpager\Jumpager::widget([
       'pagination' => $pages,
       'type' => 'input',
 ]); ?>
