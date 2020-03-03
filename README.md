@@ -14,10 +14,12 @@ Jumpager is an add-on above the LinkPager, designed for adaptive sites, convenie
 
 ### Отображение в десктопной версии
 View in desktop
+
 ![ScreenShot](https://raw.github.com/ekilei/yii2-jumpager/master/screen/2.png)
 
 ### Отображение в мобильной версии
 View in mobile
+
 ![ScreenShot](https://raw.github.com/ekilei/yii2-jumpager/master/screen/3.png)
 
 ### Поле ввода вместо селекта
